@@ -11,7 +11,7 @@ jobs:
     - name: 🚚 Get latest code
       uses: actions/checkout@v2
     
-    - name: List output files
+    - name: Listed output files
       run: ls
       
     - name: 📂 Sync Public Files
